@@ -1,7 +1,7 @@
 .container {
-    width: 100%;
-    flex: 1;
-    background-color: aqua;
-    display: flex;
-    border: 1px solid red;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 0.5rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
 }
